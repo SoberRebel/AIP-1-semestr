@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Exer\source\repos\Zmeika_Zhidkov\Zmeika_Zhidkov\main.cpp(33,14): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "overloaded-function" (или приемлемое преобразование отсутствует)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\ostream(60,39): message : может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator =(const std::basic_ostream<char,std::char_traits<char>> &)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\ostream(47,39): message : или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator =(std::basic_ostream<char,std::char_traits<char>> &&)"
+C:\Users\Exer\source\repos\Zmeika_Zhidkov\Zmeika_Zhidkov\main.cpp(33,14): message : при попытке сопоставить список аргументов "(std::ostream, overloaded-function)"
+C:\Users\Exer\source\repos\Zmeika_Zhidkov\Zmeika_Zhidkov\main.cpp(58,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
